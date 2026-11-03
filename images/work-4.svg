@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Работа 4">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e3a1b2"/><stop offset="1" stop-color="#8a4060"/></linearGradient></defs>
+<rect width="600" height="600" fill="url(#g)"/>
+<circle cx="468.0" cy="150.0" r="168.00000000000003" fill="#fff" opacity=".12"/><circle cx="120.0" cy="480.0" r="132.0" fill="#fff" opacity=".1"/><circle cx="330.0" cy="330.0" r="72.0" fill="#fff" opacity=".15"/>
+<text x="300.0" y="576" text-anchor="middle" font-family="Georgia,serif" font-size="21" fill="#ffffff" opacity=".9">Работа 4</text>
+</svg>
